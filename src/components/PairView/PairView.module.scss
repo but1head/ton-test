@@ -1,0 +1,22 @@
+.PairView {
+  flex: 1
+}
+
+.EmptyState {
+  width: 100%;
+  height: 540px;
+  background: #F4F5F9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Chart {
+  background: #F4F5F9;
+  height: 200px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
